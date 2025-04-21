@@ -1,1 +1,2 @@
-# ems-algasensors-temperature-monitoring
+# temperature-monitoring
+See full description on main project.
